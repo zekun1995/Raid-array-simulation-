@@ -1,5 +1,3 @@
-///////////////////////////////////////////////////////////////////////////////
-//
 //  File           : tagline_driver.c
 //  Description    : This is the implementation of the driver interface
 //                   between the OS and the low-level hardware.
