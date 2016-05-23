@@ -1,4 +1,4 @@
-////////////////////////////////////////////////////////////////////////////////
+
 //
 //  File           : raid_cache.c
 //  Description    : This is the implementation of the cache for the TAGLINE
